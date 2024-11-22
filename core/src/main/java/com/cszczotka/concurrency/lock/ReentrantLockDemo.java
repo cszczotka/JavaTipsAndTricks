@@ -2,6 +2,9 @@ package com.cszczotka.concurrency.lock;
 
 import java.util.concurrent.locks.ReentrantLock;
 
+/**
+ * https://javarevisited.blogspot.com/2013/03/reentrantlock-example-in-java-synchronized-difference-vs-lock.html
+ */
 public class ReentrantLockDemo {
 
     private final ReentrantLock lock = new ReentrantLock();

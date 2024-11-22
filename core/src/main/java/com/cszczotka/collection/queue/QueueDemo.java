@@ -12,8 +12,8 @@ public class QueueDemo {
 
     public static void main(String[] args) throws Exception {
 
-        arrayBlockingQueue();
-        synchronousQueueDemo();
+        //arrayBlockingQueue();
+        //synchronousQueueDemo();
         delayQueueDemo();
     }
 
